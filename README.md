@@ -23,3 +23,6 @@ Protein: Met - His - Ala
 
 ## Skills used
 Python, Bioinformatics, Central Dogma
+
+## Author
+preet-bioinfo
