@@ -112,3 +112,6 @@ def translate(mrna):
 # Test it
 mrna_seq = transcribe(sequence)
 print("Protein:", translate(mrna_seq))
+
+
+#updated by preet-bioinfo
